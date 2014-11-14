@@ -74,7 +74,8 @@ blockquote {
   margin:0;
   padding:0 0 0 10px;
   font-style:none;
-font: 14px/2.0 Monaco, Bitstream Vera Sans Mono, Lucida Console, Terminal, monospace;
+font: 12px/2.0 Monaco, Bitstream Vera Sans Mono, Lucida Console, Terminal, monospace;
+letter-spacing: -0.5px;
 }
 
 code, pre {
